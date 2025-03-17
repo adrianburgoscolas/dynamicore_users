@@ -16,7 +16,7 @@
 ### The challenge
 
 Create a functional component in React that receives a list of user objects (with name and age) and renders an ordered list of names.
-Create a simple React Native app that displays a list of items and allows you to add new items using a form.
+Create a form component in React that allows a user to enter their name and email address, and upon submission, displays the entered data below the form.
 
 ### Screenshot
 
